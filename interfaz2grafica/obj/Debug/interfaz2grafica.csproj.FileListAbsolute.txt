@@ -1,0 +1,10 @@
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\bin\Debug\interfaz2grafica.exe.config
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\bin\Debug\interfaz2grafica.exe
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\bin\Debug\interfaz2grafica.pdb
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\obj\Debug\interfaz2grafica.csprojAssemblyReference.cache
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\obj\Debug\interfaz2grafica.Form1.resources
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\obj\Debug\interfaz2grafica.Properties.Resources.resources
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\obj\Debug\interfaz2grafica.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\obj\Debug\interfaz2grafica.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\obj\Debug\interfaz2grafica.exe
+C:\Users\manue\source\repos\interfaz2grafica\interfaz2grafica\obj\Debug\interfaz2grafica.pdb
